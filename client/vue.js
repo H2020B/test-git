@@ -1,2 +1,1 @@
-This is vue.js file.
-“edited by b”
+This is vue.js file edited by a nad b.
